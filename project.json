@@ -3,6 +3,7 @@
   "description": "Demo of how exceptions are handled with try and catch. ",
   "main": "Main.xaml",
   "dependencies": {
+    "System.Text.RegularExpressions": "[4.3.1]",
     "UiPath.Excel.Activities": "[2.8.5]",
     "UiPath.Mail.Activities": "[1.8.5]",
     "UiPath.System.Activities": "[20.4.0]",
